@@ -1,0 +1,33 @@
+Login_Attributes  | 
+ Employees clicks on the Gateway app | The Gateway app should be launched successfully.
+ Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
+ Verify whether the below attributes are displayed in the login page | The page will have the elements
+Login_Attributes2  | 
+ Employees clicks on the Gateway app | The Gateway app should be launched successfully.
+ Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
+ Verify whether the below attributes are displayed in the login page | The login page should have below attributes
+demo3  | 
+ This has been | Pretty annoying
+ I'm not sure | What format we need
+Login_Attributes  | 
+ Employees clicks on the Gateway app | The Gateway app should be launched successfully.
+ Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
+ Verify whether the below attributes are displayed in the login page | The page will have the elements
+Login_Attributes2  | 
+ Employees clicks on the Gateway app | The Gateway app should be launched successfully.
+ Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
+ Verify whether the below attributes are displayed in the login page | The login page should have below attributes
+demo3  | 
+ This has been | Pretty annoying
+ I'm not sure | What format we need
+Login_Attributes  | 
+ Employees clicks on the Gateway app | The Gateway app should be launched successfully.
+ Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
+ Verify whether the below attributes are displayed in the login page | The page will have the elements
+Login_Attributes2  | 
+ Employees clicks on the Gateway app | The Gateway app should be launched successfully.
+ Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
+ Verify whether the below attributes are displayed in the login page | The login page should have below attributes
+demo3  | 
+ This has been | Pretty annoying
+ I'm not sure | What format we need
