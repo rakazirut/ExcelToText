@@ -1,392 +1,510 @@
-Login_Attributes  | 
- Employees clicks on the Gateway app | The Gateway app should be launched successfully.
- Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
- Verify whether the below attributes are displayed in the login page | The page will have the elements
-Login_Attributes2  | 
- Employees clicks on the Gateway app | The Gateway app should be launched successfully.
- Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
- Verify whether the below attributes are displayed in the login page | The login page should have below attributes
-demo3  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-Login_Attributes  | 
- Employees clicks on the Gateway app | The Gateway app should be launched successfully.
- Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
- Verify whether the below attributes are displayed in the login page | The page will have the elements
-Login_Attributes2  | 
- Employees clicks on the Gateway app | The Gateway app should be launched successfully.
- Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
- Verify whether the below attributes are displayed in the login page | The login page should have below attributes
-demo3  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-Login_Attributes  | 
- Employees clicks on the Gateway app | The Gateway app should be launched successfully.
- Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
- Verify whether the below attributes are displayed in the login page | The page will have the elements
-Login_Attributes2  | 
- Employees clicks on the Gateway app | The Gateway app should be launched successfully.
- Verify whether the employees are landed to the login page once the application is launched. | The employees should be landed to the login page once the application is launched.
- Verify whether the below attributes are displayed in the login page | The login page should have below attributes
-demo3  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo4  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo5  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo6  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo7  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo8  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo9  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo10  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo11  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo12  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo13  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo14  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo15  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo16  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo17  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo18  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo19  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo20  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo21  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo22  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo23  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo24  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo25  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo26  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo27  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo28  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo29  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo30  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo31  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo32  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo33  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo34  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo35  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo36  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo37  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo38  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo39  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo40  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo41  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo42  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo43  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo44  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo45  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo46  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo47  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo48  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo49  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo50  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo51  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo52  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo53  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo54  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo55  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo56  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo57  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo58  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo59  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo60  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo61  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo62  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo63  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo64  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo65  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo66  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo67  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo68  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo69  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo70  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo71  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo72  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo73  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo74  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo75  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo76  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo77  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo78  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo79  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo80  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo81  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo82  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo83  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo84  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo85  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo86  | 
- This has been | Pretty annoying
-demo7  | 
- This has been | Pretty annoying
-demo84  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo85  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo86  | 
- This has been | Pretty annoying
-demo7  | 
- This has been | Pretty annoying
-demo84  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo85  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo86  | 
- This has been | Pretty annoying
-demo7  | 
- This has been | Pretty annoying
-demo84  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo85  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo86  | 
- This has been | Pretty annoying
-demo7  | 
- This has been | Pretty annoying
-demo84  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo85  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo86  | 
- This has been | Pretty annoying
-demo7  | 
- This has been | Pretty annoying
-demo84  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo85  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo86  | 
- This has been | Pretty annoying
-demo7  | 
- This has been | Pretty annoying
-demo84  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
-demo85  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
-demo86  | 
- This has been | Pretty annoying
-demo7  | 
- This has been | Pretty annoying
-demo84  | 
- This has been | Pretty annoying
- I'm not sure | What format we need
- Is this working | Probably
+
+[Login_Attributes]
+|Employees clicks on the Gateway app|The Gateway app should be launched successfully.
+|Verify whether the employees are landed to the login page once the application is launched.|The employees should be landed to the login page once the application is launched.
+|Verify whether the below attributes are displayed in the login page|The page will have the elements
+
+[Login_Attributes2]
+|Employees clicks on the Gateway app|The Gateway app should be launched successfully.
+|Verify whether the employees are landed to the login page once the application is launched.|The employees should be landed to the login page once the application is launched.
+|Verify whether the below attributes are displayed in the login page|The login page should have below attributes
+
+[demo3]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[Login_Attributes]
+|Employees clicks on the Gateway app|The Gateway app should be launched successfully.
+|Verify whether the employees are landed to the login page once the application is launched.|The employees should be landed to the login page once the application is launched.
+|Verify whether the below attributes are displayed in the login page|The page will have the elements
+
+[Login_Attributes2]
+|Employees clicks on the Gateway app|The Gateway app should be launched successfully.
+|Verify whether the employees are landed to the login page once the application is launched.|The employees should be landed to the login page once the application is launched.
+|Verify whether the below attributes are displayed in the login page|The login page should have below attributes
+
+[demo3]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[Login_Attributes]
+|Employees clicks on the Gateway app|The Gateway app should be launched successfully.
+|Verify whether the employees are landed to the login page once the application is launched.|The employees should be landed to the login page once the application is launched.
+|Verify whether the below attributes are displayed in the login page|The page will have the elements
+
+[Login_Attributes2]
+|Employees clicks on the Gateway app|The Gateway app should be launched successfully.
+|Verify whether the employees are landed to the login page once the application is launched.|The employees should be landed to the login page once the application is launched.
+|Verify whether the below attributes are displayed in the login page|The login page should have below attributes
+
+[demo3]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo4]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo5]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo6]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo7]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo8]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo9]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo10]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo11]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo12]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo13]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo14]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo15]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo16]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo17]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo18]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo19]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo20]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo21]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo22]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo23]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo24]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo25]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo26]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo27]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo28]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo29]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo30]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo31]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo32]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo33]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo34]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo35]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo36]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo37]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo38]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo39]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo40]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo41]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo42]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo43]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo44]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo45]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo46]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo47]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo48]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo49]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo50]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo51]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo52]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo53]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo54]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo55]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo56]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo57]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo58]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo59]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo60]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo61]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo62]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo63]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo64]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo65]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo66]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo67]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo68]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo69]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo70]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo71]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo72]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo73]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo74]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo75]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo76]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo77]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo78]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo79]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo80]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo81]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo82]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo83]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo84]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo85]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo86]
+|This has been|Pretty annoying
+
+[demo7]
+|This has been|Pretty annoying
+
+[demo84]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo85]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo86]
+|This has been|Pretty annoying
+
+[demo7]
+|This has been|Pretty annoying
+
+[demo84]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo85]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo86]
+|This has been|Pretty annoying
+
+[demo7]
+|This has been|Pretty annoying
+
+[demo84]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo85]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo86]
+|This has been|Pretty annoying
+
+[demo7]
+|This has been|Pretty annoying
+
+[demo84]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo85]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo86]
+|This has been|Pretty annoying
+
+[demo7]
+|This has been|Pretty annoying
+
+[demo84]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo85]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo86]
+|This has been|Pretty annoying
+
+[demo7]
+|This has been|Pretty annoying
+
+[demo84]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably
+
+[demo85]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+
+[demo86]
+|This has been|Pretty annoying
+
+[demo7]
+|This has been|Pretty annoying
+
+[demo84]
+|This has been|Pretty annoying
+|I'm not sure|What format we need
+|Is this working|Probably

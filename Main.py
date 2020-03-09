@@ -17,9 +17,15 @@ if os.path.exists(os.getcwd() +'\\' + fn +'.xlsx'):  # file was found
         test_d = sh.cell(i, 0).value  # load value from cell (i,0) i row first column
         step_d = sh.row_values(i, 1, 2)  # load values i row second column
         result_d = sh.row_values(i, 2, 3)  # load values i row third column
-        DB1 = test_d + " " + (" ".join(step_d))  # build test step portion
-        DB2 = " ".join(result_d)  # build test result portion
-        my_file.write(DB1 + ' | ' + DB2 + "\n")  # write data to file
+        if test_d == '':
+            DB1 = " ".join(step_d)  # build test step portion
+            DB2 = " ".join(result_d)  # build test result portion
+            my_file.write('|'+DB1 + '|' + DB2 + "\n")  # write data to file
+            if step_d == '':
+                print("")
+        else:
+            DB1 = "\n[" + test_d + "]\n"
+            my_file.write(DB1)
         i += 1  # increment i for next row
         # print("Line " + str(i) + " was written.")  # console log of progress
     my_file.close()  # release resources
